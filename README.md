@@ -17,7 +17,7 @@ For now, just follow the instructions on the screen.
   
 # Licensing
 
-There is no license for this project yet.
+\* See [license.txt](https://github.com/Kusnierewicz/GemiusDirectEffect-API-automation/blob/master/LICENSE.txt) for usage details.
   
 # Contacts
 
